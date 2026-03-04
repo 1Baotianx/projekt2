@@ -15,7 +15,7 @@ carart = r'''
     '--(_)------(_)--' `      '::'
 '''
 
-os.system('cls') #clearar cmd 
+os.system('cls') #clearar cli
 billista = ["Porsche 911 Turbo S", "BMW M4 F82"] #Lista på bilar
 while True: #Gör allt i en loop så användaren får välja när den e klar
     print(f"Favoritbilslistan! ({len(billista)} Bilar i listan).") # Rubrik på listan och hur många bilar som är i listan
